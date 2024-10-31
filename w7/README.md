@@ -1,5 +1,7 @@
 챕터가 클라우드에 배포하기여서 Docker에서 실행하도록 추가해봤습니다.
 
+동영상 크기 문제로 google drive에 업로드했습니다.
+
 - basic
   
 https://drive.google.com/file/d/1QXolB6z-0eID1eKWK77VmvfnGNBKMOw9/view?usp=drive_link
